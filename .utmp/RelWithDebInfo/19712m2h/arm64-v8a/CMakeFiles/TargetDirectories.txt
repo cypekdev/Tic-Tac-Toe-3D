@@ -1,0 +1,5 @@
+C:/Users/Cypek/Tic Tac Toe 3D/.utmp/RelWithDebInfo/19712m2h/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Cypek/Tic Tac Toe 3D/.utmp/RelWithDebInfo/19712m2h/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Cypek/Tic Tac Toe 3D/.utmp/RelWithDebInfo/19712m2h/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Cypek/Tic Tac Toe 3D/.utmp/RelWithDebInfo/19712m2h/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Cypek/Tic Tac Toe 3D/.utmp/RelWithDebInfo/19712m2h/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

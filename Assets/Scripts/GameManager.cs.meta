@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bd0890760e8dad04687d819d84a8e095
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inactiveMaterial: {fileID: 2100000, guid: 1ac9cf77e644877419e3df509814cb9c, type: 2}
+  - firstPlayerMaterial: {fileID: 2100000, guid: 65dff2c5ca8eadb478805328c786776f, type: 2}
+  - secondPlayerMaterial: {fileID: 2100000, guid: 5bb7c201005ff6b47bf1e385086457f9, type: 2}
+  - thirdPlayerMaterial: {fileID: 2100000, guid: 2f9b24a9cc2e42741bab4e5d49d73645, type: 2}
+  - IntersectionLinePrefab: {fileID: 8777180111907923041, guid: 3e16cfd79b0aac94abeaa864fda1d934, type: 3}
+  - summaryPanel: {instanceID: 0}
+  - summaryText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

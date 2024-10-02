@@ -1,0 +1,10 @@
+# ninja log v5
+23	1073	7495182259512365	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	dff2319ff65abe50
+18	1116	7495182259937228	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	10b2040b59395b47
+26	1122	7495182260144267	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8ea432e12c0d208f
+1	1126	7495182260345933	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	887c5b7f30f19cd1
+31	1154	7495182260639251	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	83959663622ae20e
+6	1365	7495182262817315	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	508b793c8548fd76
+14	1529	7495182264466879	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8a98b2e29d5ae8b4
+10	1604	7495182265188197	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ff4a92d6916b3132
+1604	1877	7495182267891421	C:/Users/Cypek/Tic Tac Toe 3D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/19712m2h/obj/arm64-v8a/libgame.so	fbe7424138ba0339
